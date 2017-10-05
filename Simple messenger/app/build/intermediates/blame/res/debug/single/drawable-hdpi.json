@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/vivek/Ubuntu/ds/PA/PA1/SimpleMessenger/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/media/vivek/Ubuntu/ds/PA/PA1/SimpleMessenger/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/vivek/Ubuntu/SimpleMessenger/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/media/vivek/Ubuntu/SimpleMessenger/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

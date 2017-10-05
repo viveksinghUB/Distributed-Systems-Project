@@ -1,0 +1,4 @@
+#Mon Feb 20 20:41:30 EST 2017
+base.0=/media/vivek/Ubuntu/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/vivek/Ubuntu/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

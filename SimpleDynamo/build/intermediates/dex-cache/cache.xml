@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/pre-dexed/debug/classes-4ab24fd4a03730a2eeb4049907b5df22d10b03a6.jar" />
+    </item>
+    <item
+        jar="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/pre-dexed/debug/classes-e34d08c4e49e10a34644d4698d4ffd4259673e3e.jar" />
+    </item>
+    <item
+        jar="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/pre-dexed/debug/classes-83dc16562156df6801a9b5eb6ab100ba3a98c394.jar" />
+    </item>
+    <item
+        jar="/home/vivek/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1-6d439b6cfb49c4acc8226f77b7cfe8e4cf4b0378.jar" />
+    </item>
+    <item
+        jar="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/pre-dexed/debug/classes-ac7df3b06986f16f96948dee4e6c6726bf1f0d2c.jar" />
+    </item>
+    <item
+        jar="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/pre-dexed/debug/classes-bb56b76b309b1c45716133312a6f64dbe333f3bd.jar" />
+    </item>
+    <item
+        jar="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/media/vivek/Ubuntu/ds/PA4/SimpleDynamo/app/build/intermediates/pre-dexed/debug/classes-9564a26f41afc7265a72aff2526a8114fa475de9.jar" />
+    </item>
+
+</items>
