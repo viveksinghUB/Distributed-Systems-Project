@@ -27,13 +27,13 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>GroupMessenger/README.md at master · vivekbhalla/GroupMessenger</title>
+
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="https://avatars0.githubusercontent.com/u/5915718?v=4&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="vivekbhalla/GroupMessenger" property="og:title" /><meta content="https://github.com/vivekbhalla/GroupMessenger" property="og:url" /><meta content="GroupMessenger - Totally and Causally Ordered Group Messenger with a Local Persistent Key-Value Table" property="og:description" />
+    <meta content="https://avatars0.githubusercontent.com/u/5915718?v=4&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="viveksinghUB/GroupMessenger" property="og:title" /><meta content="https://github.com/viveksinghUB/GroupMessenger" property="og:url" /><meta content="GroupMessenger - Totally and Causally Ordered Group Messenger with a Local Persistent Key-Value Table" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjEwNTI2MDkzOmM2OWUxNmZiZDkwNWZlYzExMzc5MmFhY2YyNjdkMmE1NWVhN2I1YzQ1ZWI2MmM1ZWRkYzExYzg2ODhjMWQ1ZmQ=--b5e1c3e1819c91d29ea113f52b6f2742bc5063bf">
@@ -72,15 +72,15 @@
   <meta http-equiv="x-pjax-version" content="2a35bf375cf9b2474ab1260eed157ce2">
   
 
-      <link href="https://github.com/vivekbhalla/GroupMessenger/commits/master.atom" rel="alternate" title="Recent Commits to GroupMessenger:master" type="application/atom+xml">
+      <link href="https://github.com/viveksinghUB/GroupMessenger/commits/master.atom" rel="alternate" title="Recent Commits to GroupMessenger:master" type="application/atom+xml">
 
   <meta name="description" content="GroupMessenger - Totally and Causally Ordered Group Messenger with a Local Persistent Key-Value Table">
-  <meta name="go-import" content="github.com/vivekbhalla/GroupMessenger git https://github.com/vivekbhalla/GroupMessenger.git">
+  <meta name="go-import" content="github.com/viveksinghUB/GroupMessenger git https://github.com/viveksinghUB/GroupMessenger.git">
 
-  <meta content="5915718" name="octolytics-dimension-user_id" /><meta content="vivekbhalla" name="octolytics-dimension-user_login" /><meta content="20425795" name="octolytics-dimension-repository_id" /><meta content="vivekbhalla/GroupMessenger" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="20425795" name="octolytics-dimension-repository_network_root_id" /><meta content="vivekbhalla/GroupMessenger" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
+  <meta content="5915718" name="octolytics-dimension-user_id" /><meta content="viveksinghUB" name="octolytics-dimension-user_login" /><meta content="20425795" name="octolytics-dimension-repository_id" /><meta content="viveksinghUB/GroupMessenger" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="20425795" name="octolytics-dimension-repository_network_root_id" /><meta content="viveksinghUB/GroupMessenger" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/vivekbhalla/GroupMessenger/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/viveksinghUB/GroupMessenger/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -125,9 +125,9 @@
       <div class="d-flex">
             <div class="">
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/vivekbhalla/GroupMessenger/search" class="js-site-search-form" data-scoped-search-url="/vivekbhalla/GroupMessenger/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/viveksinghUB/GroupMessenger/search" class="js-site-search-form" data-scoped-search-url="/viveksinghUB/GroupMessenger/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/vivekbhalla/GroupMessenger/blob/master/README.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/viveksinghUB/GroupMessenger/blob/master/README.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -208,9 +208,9 @@
 
   <div class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="vivekbhalla/GroupMessenger">This repository</span>
+    <span title="viveksinghUB/GroupMessenger">This repository</span>
   </div>
-    <a class="dropdown-item" href="/vivekbhalla/GroupMessenger/issues/new" data-ga-click="Header, create new issue">
+    <a class="dropdown-item" href="/viveksinghUB/GroupMessenger/issues/new" data-ga-click="Header, create new issue">
       New issue
     </a>
 
@@ -302,7 +302,7 @@
         <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Zh6JuXoc6WKzpfPch0VrCahKendcdlc669LLw9bBXv+xVBYWc6BUITEDM+eIeZ9qjD9X6BlEE/kkZuEFNVzanQ==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="20425795" />
 
         <div class="select-menu js-menu-container js-select-menu">
-          <a href="/vivekbhalla/GroupMessenger/subscription"
+          <a href="/viveksinghUB/GroupMessenger/subscription"
             class="btn btn-sm btn-with-count select-menu-button js-menu-target"
             role="button"
             aria-haspopup="true"
@@ -315,7 +315,7 @@
             </span>
           </a>
             <a class="social-count js-social-count"
-              href="/vivekbhalla/GroupMessenger/watchers"
+              href="/viveksinghUB/GroupMessenger/watchers"
               aria-label="1 user is watching this repository">
               1
             </a>
@@ -379,30 +379,30 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/vivekbhalla/GroupMessenger/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gAchRgAbu31yOP3AQDCh6awMCmY0rwvaVFBPLdqLON++Q4ws8sWufAnY5khlADCZTl3hpK0di3XO1Pe4GE3/LA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/viveksinghUB/GroupMessenger/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gAchRgAbu31yOP3AQDCh6awMCmY0rwvaVFBPLdqLON++Q4ws8sWufAnY5khlADCZTl3hpK0di3XO1Pe4GE3/LA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar vivekbhalla/GroupMessenger"
+        aria-label="Unstar this repository" title="Unstar viveksinghUB/GroupMessenger"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/vivekbhalla/GroupMessenger/stargazers"
+        <a class="social-count js-social-count" href="/viveksinghUB/GroupMessenger/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/vivekbhalla/GroupMessenger/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3VQtCfcMI2pozwkG3KqV2bqs7bfqOuts1yYi+bT6dCxfwNlwqJmUQLfvK881o/kVlVLjt9CWeA8merQMSs3TTA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/viveksinghUB/GroupMessenger/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3VQtCfcMI2pozwkG3KqV2bqs7bfqOuts1yYi+bT6dCxfwNlwqJmUQLfvK881o/kVlVLjt9CWeA8merQMSs3TTA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star vivekbhalla/GroupMessenger"
+        aria-label="Star this repository" title="Star viveksinghUB/GroupMessenger"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/vivekbhalla/GroupMessenger/stargazers"
+        <a class="social-count js-social-count" href="/viveksinghUB/GroupMessenger/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -411,18 +411,18 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/vivekbhalla/GroupMessenger/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="59Bz2SGC+reJglbDJbhw0R+8wwcHiQ/WmNqQfg3EwaSZqr9moxs2YZG09a9kyuyZoZcnt0E/lr0zef/wIhALeg==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/viveksinghUB/GroupMessenger/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="59Bz2SGC+reJglbDJbhw0R+8wwcHiQ/WmNqQfg3EwaSZqr9moxs2YZG09a9kyuyZoZcnt0E/lr0zef/wIhALeg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of vivekbhalla/GroupMessenger to your account"
-                aria-label="Fork your own copy of vivekbhalla/GroupMessenger to your account">
+                title="Fork your own copy of viveksinghUB/GroupMessenger to your account"
+                aria-label="Fork your own copy of viveksinghUB/GroupMessenger to your account">
               <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
             </button>
 </form>
-    <a href="/vivekbhalla/GroupMessenger/network" class="social-count"
+    <a href="/viveksinghUB/GroupMessenger/network" class="social-count"
        aria-label="0 users forked this repository">
       0
     </a>
@@ -431,9 +431,9 @@
 
         <h1 class="public ">
   <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a href="/vivekbhalla" class="url fn" rel="author">vivekbhalla</a></span><!--
+  <span class="author" itemprop="author"><a href="/viveksinghUB" class="url fn" rel="author">viveksinghUB</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a href="/vivekbhalla/GroupMessenger" data-pjax="#js-repo-pjax-container">GroupMessenger</a></strong>
+--><strong itemprop="name"><a href="/viveksinghUB/GroupMessenger" data-pjax="#js-repo-pjax-container">GroupMessenger</a></strong>
 
 </h1>
 
@@ -446,14 +446,14 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/vivekbhalla/GroupMessenger" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /vivekbhalla/GroupMessenger" itemprop="url">
+    <a href="/viveksinghUB/GroupMessenger" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /viveksinghUB/GroupMessenger" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a href="/vivekbhalla/GroupMessenger/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /vivekbhalla/GroupMessenger/issues" itemprop="url">
+      <a href="/viveksinghUB/GroupMessenger/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /viveksinghUB/GroupMessenger/issues" itemprop="url">
         <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
         <span class="Counter">0</span>
@@ -461,19 +461,19 @@
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/vivekbhalla/GroupMessenger/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /vivekbhalla/GroupMessenger/pulls" itemprop="url">
+    <a href="/viveksinghUB/GroupMessenger/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /viveksinghUB/GroupMessenger/pulls" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
-    <a href="/vivekbhalla/GroupMessenger/projects" class="js-selected-navigation-item reponav-item" data-hotkey="g b" data-selected-links="repo_projects new_repo_project repo_project /vivekbhalla/GroupMessenger/projects">
+    <a href="/viveksinghUB/GroupMessenger/projects" class="js-selected-navigation-item reponav-item" data-hotkey="g b" data-selected-links="repo_projects new_repo_project repo_project /viveksinghUB/GroupMessenger/projects">
       <svg aria-hidden="true" class="octicon octicon-project" height="16" version="1.1" viewBox="0 0 15 16" width="15"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
-    <a href="/vivekbhalla/GroupMessenger/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /vivekbhalla/GroupMessenger/wiki">
+    <a href="/viveksinghUB/GroupMessenger/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /viveksinghUB/GroupMessenger/wiki">
       <svg aria-hidden="true" class="octicon octicon-book" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
@@ -485,15 +485,15 @@
       </button>
       <div class="dropdown-menu-content js-menu-content">
         <div class="dropdown-menu dropdown-menu-sw">
-            <a class="dropdown-item" href="/vivekbhalla/GroupMessenger/community" data-skip-pjax>
+            <a class="dropdown-item" href="/viveksinghUB/GroupMessenger/community" data-skip-pjax>
               <svg aria-hidden="true" class="octicon octicon-heart" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11.2 3c-.52-.63-1.25-.95-2.2-1-.97 0-1.69.42-2.2 1-.51.58-.78.92-.8 1-.02-.08-.28-.42-.8-1-.52-.58-1.17-1-2.2-1-.95.05-1.69.38-2.2 1-.52.61-.78 1.28-.8 2 0 .52.09 1.52.67 2.67C1.25 8.82 3.01 10.61 6 13c2.98-2.39 4.77-4.17 5.34-5.33C11.91 6.51 12 5.5 12 5c-.02-.72-.28-1.39-.8-2.02V3z"/></svg>
               <span itemprop="name">Community</span>
             </a>
-          <a class="dropdown-item" href="/vivekbhalla/GroupMessenger/pulse" data-skip-pjax>
+          <a class="dropdown-item" href="/viveksinghUB/GroupMessenger/pulse" data-skip-pjax>
             <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"/></svg>
             Pulse
           </a>
-          <a class="dropdown-item" href="/vivekbhalla/GroupMessenger/graphs" data-skip-pjax>
+          <a class="dropdown-item" href="/viveksinghUB/GroupMessenger/graphs" data-skip-pjax>
             <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
             Graphs
           </a>
@@ -509,7 +509,7 @@
   <div class="repository-content">
 
     
-  <a href="/vivekbhalla/GroupMessenger/blob/b7853e0448ba0e24d2c84d196c4ed76ffe26784c/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/viveksinghUB/GroupMessenger/blob/b7853e0448ba0e24d2c84d196c4ed76ffe26784c/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
   <!-- blob contrib key: blob_contributors:v21:2888fadfa76c673b8b480599b09582f8 -->
 
@@ -553,7 +553,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/vivekbhalla/GroupMessenger/blob/master/README.md"
+               href="/viveksinghUB/GroupMessenger/blob/master/README.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -581,7 +581,7 @@
 </div>
 
     <div class="BtnGroup float-right">
-      <a href="/vivekbhalla/GroupMessenger/find/master"
+      <a href="/viveksinghUB/GroupMessenger/find/master"
             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
             data-pjax
             data-hotkey="t">
@@ -590,12 +590,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/vivekbhalla/GroupMessenger"><span>GroupMessenger</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/viveksinghUB/GroupMessenger"><span>GroupMessenger</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/vivekbhalla/GroupMessenger/contributors/master/README.md">
+  <include-fragment class="commit-tease" src="/viveksinghUB/GroupMessenger/contributors/master/README.md">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -611,24 +611,24 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/vivekbhalla/GroupMessenger/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/vivekbhalla/GroupMessenger/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/vivekbhalla/GroupMessenger/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/viveksinghUB/GroupMessenger/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/viveksinghUB/GroupMessenger/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/viveksinghUB/GroupMessenger/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="x-github-client://openRepo/https://github.com/vivekbhalla/GroupMessenger?branch=master&amp;filepath=README.md"
+           href="x-github-client://openRepo/https://github.com/viveksinghUB/GroupMessenger?branch=master&amp;filepath=README.md"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/vivekbhalla/GroupMessenger/edit/master/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AQltUQnenkiAS2xuqqKAQo2WXvCrI9NHJBAR76smfG8iemlvaazpFmFeSDYKIAgoTuSXVhxZOdmIxL9X+vtU6A==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/viveksinghUB/GroupMessenger/edit/master/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AQltUQnenkiAS2xuqqKAQo2WXvCrI9NHJBAR76smfG8iemlvaazpFmFeSDYKIAgoTuSXVhxZOdmIxL9X+vtU6A==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/vivekbhalla/GroupMessenger/delete/master/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sYMTjpuniXO8NqqKYvD/HQuka7kvuWt2bGpffFOy+5qWYu0tb+mZpWMblDmfkJUCH/+k74OnLpqJZkEQ75YQDg==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/viveksinghUB/GroupMessenger/delete/master/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sYMTjpuniXO8NqqKYvD/HQuka7kvuWt2bGpffFOy+5qWYu0tb+mZpWMblDmfkJUCH/+k74OnLpqJZkEQ75YQDg==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -646,7 +646,7 @@
   <div id="readme" class="readme blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="text"><h1><a href="#groupmessenger" aria-hidden="true" class="anchor" id="user-content-groupmessenger"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>GroupMessenger</h1>
 <p>Totally and Causally Ordered Group Messenger with a Local Persistent Key-Value Table</p>
-<p>This application builds on the <a href="https://github.com/vivekbhalla/SimpleMessenger/">simple messenger app</a>.
+<p>This application builds on the <a href="https://github.com/viveksinghUB/SimpleMessenger/">simple messenger app</a>.
 This is a group messenger application that preserves total ordering as well as causal ordering of all messages.
 In addition, it implements a key-value table that each device uses to individually store all messages on its
 local storage.</p>
