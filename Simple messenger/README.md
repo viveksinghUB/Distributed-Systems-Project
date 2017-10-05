@@ -5,7 +5,6 @@ This is a simple messenger app on Android.
 
 The goal of this app is simple: enabling two Android devices to send messages to each other.
 
-NOTE - Please do not use Android Studio. It does not work with the current setup, please use Eclipse
 
 You need to have the Android SDK and Python 2.x installed on your machine
 Use the python scripts to create, run and set the ports of the AVD's, by using the following commands 
